@@ -1,0 +1,233 @@
+.f123 {
+    width: 1440px;
+    height: 1024px;
+}
+
+.f1 {
+    font-size: 102px;
+    margin-top: 192px;
+    margin-left: 221px;
+    height: 151px;
+    width: 542px;
+    line-height: 151.47px;
+}
+
+.f2 {
+    font-size: 42px;
+    width: 361px;
+    height: 62px;
+    margin-top: 3px;
+    margin-left: 220px;
+    line-height: 62.37px;
+    font-weight: 400;
+    color: #0075FFF0;
+
+}
+
+.f3 {
+    width: 1398px;
+    height: 480px;
+    margin-top: 8px;
+    margin-left: px;
+}
+
+p {
+    width: 550px;
+    height: 40px;
+    margin-top: 25px;
+    margin-left: 445px;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 40.1px;
+}
+
+.th {
+    width: 391px;
+    height: 88px;
+    margin-top: 250px;
+    margin-left: 559px;
+    font-weight: 400;
+    font-size: 59px;
+    line-height: 87.62px;
+    text-emphasis: right;
+}
+
+.im2 {
+    border-radius: 50%;
+    margin-bottom: 45px;
+}
+
+.cb {
+
+    height: 95px;
+    margin-top: -250px;
+    margin-left: 575px;
+    font-weight: 400;
+    font-size: 79px;
+    line-height: 94.8px;
+    font-family: cursive;
+
+}
+
+.r3 {
+    background-color: #9B9B9B2E;
+
+
+}
+
+.cb1 {
+    width: 277px;
+    height: 97px;
+    margin-top: -19px;
+    margin-left: 588px;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 29.3px;
+    font-family: cursive
+}
+
+.lc {
+    height: 95px;
+    margin-top: -300px;
+    margin-left: px;
+    font-weight: 400;
+    font-size: 79px;
+    line-height: 94.8px;
+    font-family: cursive;
+
+}
+
+.lc1 {
+    width: 268px;
+    height: 97px;
+    margin-top: -19px;
+    margin-left: 600px;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 29.3px;
+    font-family: cursive;
+    text-align: right;
+
+}
+
+.r4 {
+
+    background-color: #9B9B9B2E;
+
+}
+
+.aid {
+    width: 455px;
+    height: 64px;
+    margin-top: -300px;
+    margin-left: 740px;
+    font-weight: 400;
+    font-size: 43px;
+    line-height: 63.86px;
+    text-align: right;
+}
+
+.box {
+    width: 544px;
+    height: 480px;
+    margin-top: -900px;
+    margin-left: 800px;
+    border-radius: 50%;
+
+}
+.gl img{
+    height: 20px;
+    width: 30px;
+}
+
+
+
+.container {
+    width: 564px;
+    height: 627px;
+    margin-top: 181px;
+    margin-left: 397px;
+    border-radius: 20px;
+    border: 1px solid black;
+
+}
+
+.google {
+    width: 190px;
+    height: 45px;
+    margin-top: 51px;
+    margin-left: 47px;
+    border-radius: 9px;
+    border: 1px solid #EAEAEA;
+    background-color: white;
+}
+
+.gl {
+    width: 25px;
+    height: 25px;
+
+}
+.face{
+    width: 190px;
+    height: 45px;
+    margin-top: 51px;
+    margin-left:47px;
+    border-radius: 9px;
+    border: 1px solid #EAEAEA;
+    background-color: white;
+
+}
+.fb{
+    margin-top: -30px;
+    margin-left: 20px;
+}
+.inp{
+    width: 405px;
+    height: 346px;
+    margin-top: 167px;
+    margin-left:48px; 
+}
+.login{
+    margin-top: 50px;
+    width: 170px;
+    height: 36px;
+    background-color:#9e5ec3;
+    border-radius: 10px;
+    
+}
+.links{
+    margin-left: 600px;
+    margin-top: -200px;
+    font-size: 27px;
+}
+.links ul{
+    list-style: none;
+}
+.links ul li a{
+    color: white;
+    text-decoration: none;
+}
+.end1 img {
+    height: 44px;
+    width: 50px;
+    margin-top: 0;
+    }
+.endlogo{
+    height: 554px;
+    width: 309px;
+    display:flex;
+    justify-content: space-evenly;
+}
+.project{
+    width: Fixed (225px)px;
+height: Hug (184px)px;
+top: 112px;
+left: 607px;
+gap: 0px;
+opacity: 0px;
+
+}
+.one{
+    display: flex;
+    justify-content: center;
+}
